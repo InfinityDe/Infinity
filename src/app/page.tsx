@@ -4,8 +4,8 @@ import { Metadata } from 'next'
 
 
 export const metadata: Metadata = {
-  title: 'Infinity',
-  description: 'Infinity',
+  title: 'Servicios de Desarrollo y Diseño Web',
+  description: 'Ofrecemos servicios de desarrollo web, creación de logos, identidades visuales y todo lo relacionado con el diseño gráfico y web.',
 }
 
 
